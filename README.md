@@ -4,22 +4,12 @@ https://www.youtube.com/watch?v=UnaFT9iJ4sw&ab_channel=BanHeesoo
 
 #### ✅ 프로젝트 소개
 
-가상의 피자가게 웹사이트를 만들며 `리액트`의 기본 원리를 학습했습니다.
-
-#### ✅ 구현 기능 목록
-
-1. `회원가입`: 로그인/로그아웃
-
-1. `회원가입`: 로그인/로그아웃
-1. `메인 페이지`: 캐로셀, 카드 이미지, 브랜드/가격별 필터링, 상품 검색, 제품 더보기
-1. `제품 상세 페이지`: 제품 정보 출력, 구매하기, 장바구니 추가
-1. `장바구니 페이지`: 상품 지우기, 가격 계산, 체크박스, 페이팔 결제
+가상의 피자가게 웹사이트를 만들며 `리액트`로 컴포넌트를 나누고 페이지를 구성하는 기본 원리를 학습했습니다.
 
 #### ✅ 사용 언어 및 툴
 
-1. `Front-end`: <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=black"/>
-2. `Back-end`: <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white"/> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%23323330.svg?style=for-the-badge&logo=MongoDB&logoColor=47A248"/>
-3. `IDE`: <img alt="VisualStudioCode" src="https://img.shields.io/badge/VisualStudioCode-007ACC.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+1. `Front-end`: <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+2. `IDE`: <img alt="VisualStudioCode" src="https://img.shields.io/badge/VisualStudioCode-007ACC.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
 
 #### ✅ 프로필
 
